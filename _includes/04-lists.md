@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+## My favorite foods
+  - Chinese food
+    * Din Sum
+    * Soup
+    * Pan fry vegetabbles
+  - Seafood
+    * Lobster
+    * Scallop
+    * Crab
